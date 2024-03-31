@@ -299,6 +299,8 @@
 		}, timeout);
 	}
 
+	/*
+
 	k.debug.paused = true;
 	setTimeout(() => {
 	let i = 0;
@@ -308,6 +310,8 @@
 		console.log(i);
 	}
 	}, 100);
+
+	*/
 </script>
 
 <h1>
